@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: indianred; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+
+img {
+    border: 1px solid black;
+    width: 25%;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+
